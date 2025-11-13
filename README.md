@@ -1,1 +1,1 @@
-# Meta Hacker Cup Solutions
+## Meta Hacker Cup Solutions
